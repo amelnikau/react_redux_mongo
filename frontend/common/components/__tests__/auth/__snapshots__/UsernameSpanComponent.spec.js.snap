@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot components testing UsernameSpanComponent should render username test-user 1`] = `
+<span>
+  Username: 
+  test-user
+</span>
+`;

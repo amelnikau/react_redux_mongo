@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot components testing LoginFormComponent should render login form 1`] = `
+<div>
+  Username: 
+  <input
+    type="text"
+  />
+  <br />
+  Password: 
+  <input
+    type="password"
+  />
+  <br />
+  <input
+    onClick={[Function]}
+    type="button"
+    value="Log In"
+  />
+  <input
+    onClick={[Function]}
+    type="button"
+    value="Sign Up"
+  />
+</div>
+`;
